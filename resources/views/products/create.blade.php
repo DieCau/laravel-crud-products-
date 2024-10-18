@@ -13,6 +13,7 @@
             </div>
         @endif
 
+        {{-- Crear nuevo producto --}}
         <div class="row">
             <div class="col-12">
                 <h1>Agregar Nuevo Producto</h1>
