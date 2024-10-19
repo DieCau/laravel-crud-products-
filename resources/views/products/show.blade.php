@@ -1,5 +1,6 @@
 @extends('layout/app')
 @section('title', 'Agregar Producto')
+{{-- Details Product --}}
 @section('content')
     <div class="container mt-4">
 
@@ -25,7 +26,6 @@
                 </div>
                 <a href="{{ route('index') }}" class="btn btn-outline-secondary"><i class="bi bi-arrow-left"></i>
                     Atras</a>
-
             </div>
         </div>
 

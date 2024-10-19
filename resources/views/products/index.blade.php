@@ -3,6 +3,7 @@
 @section('title', 'Productos - Laravel v11')
 @section('content')
 
+    {{-- Show Products --}}
     <div class="container mt-4">
         <h1>Lista de Productos</h1>
 
