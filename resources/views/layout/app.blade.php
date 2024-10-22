@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    {{-- Layout --}}
 
     @yield('content')
 
